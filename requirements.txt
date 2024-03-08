@@ -7,3 +7,6 @@ google-api-python-client
 pypdf
 requests
 newspaper3k
+selenium
+unstructured
+scikit-learn
