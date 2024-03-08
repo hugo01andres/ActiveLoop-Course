@@ -17,3 +17,7 @@ llm = OpenAI(model_name="gpt-3.5-turbo", temperature=0)
 
 
 # Recheck the RetryOutput Parser is very obligatory to do it in every action
+
+# If you want to transform the text to embeddings and chunks:
+- Keeping Knowledge Organized with Indexes
+- What are Text Splitters and Why they are useful
