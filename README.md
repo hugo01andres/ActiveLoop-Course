@@ -14,3 +14,6 @@ When you use a ChatModel you need to declare it like this:
 ´´´
 llm = OpenAI(model_name="gpt-3.5-turbo", temperature=0)
 ´´´
+
+
+# Recheck the RetryOutput Parser is very obligatory to do it in every action
