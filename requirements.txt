@@ -5,3 +5,5 @@ openai==0.27.8
 tiktoken
 google-api-python-client
 pypdf
+requests
+newspaper3k
