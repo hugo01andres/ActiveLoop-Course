@@ -10,3 +10,4 @@ newspaper3k
 selenium
 unstructured
 scikit-learn
+yt-dlp==2024.3.10
