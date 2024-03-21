@@ -14,4 +14,5 @@ yt-dlp==2024.3.10
 google-search-results==2.4.2
 langchain_experimental==0.0.55
 Wikipedia
+faiss-cpu==1.8.0
 Wolframalpha
